@@ -10,7 +10,7 @@ $(call inherit-product, device/samsung/lt01lte/full_lt01lte.mk)
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := lt01lte
 PRODUCT_NAME := bliss_lt01lte
-PRODUCT_BRAND := samsung
+PRODUCT_BRAND := samsun
 PRODUCT_MODEL := SM-T315
 PRODUCT_MANUFACTURER := samsung
 
